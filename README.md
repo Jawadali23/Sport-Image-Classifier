@@ -45,7 +45,6 @@ The system ensures better accuracy by only using images where **at least two eye
 ```
 Sport-Image-Classifier/
 │
-├── images_dataset/              # Raw dataset
 ├── cropped_images/             # Processed dataset
 ├── Opencv/
 │   ├── haarcascade_frontalface_default.xml
